@@ -1,0 +1,47 @@
+\documentclass[a4paper,12pt,french,fleqn]{report}
+%Packages:
+
+%Langages:
+\usepackage[latin1]{inputenc}
+\usepackage{utf-8}
+\usepackage[french]{babel}
+\usepackage[]{lmodern}
+
+%AMS maths.
+\usepackage{amsmath, amssymb, amsfonts}
+
+%Mise en page
+\usepackage[top=3cm, right=2.5cm, bottom=3cm, left=2.5cm]{geometry}
+\usepackage{fancyhdr}
+
+%Définition des macros
+\usepackage[]{amsthm}
+
+%Figures
+\usepackage[]{tikz}
+\usepackage[]{graphicx}
+\usepackage[]{wrapfig}
+
+%Symboles mathématiques
+\usepackage[]{latexsym}
+
+%Titre et auteurs
+
+\title{Rapport Sudoku\\Rapport du travail fourni}
+\author{PHILIPPI Alexandre - HBAIEB Ahmed - JEANJEAN Vincent}
+\date{Décembre 2013}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+
+
+
+
+
+
+
+
+
+\end{document}
